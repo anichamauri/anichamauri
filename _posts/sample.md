@@ -1,7 +1,7 @@
 ---
 layout: post
 title: საქართველო
-date: {}
+date: 2024-04-07T00:00:00.000Z
 draft: false
 published: false
 ---
